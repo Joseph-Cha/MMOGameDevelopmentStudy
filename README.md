@@ -1,78 +1,78 @@
-# C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî
-MMORPG ·Îµå¸Ê °­ÀÇ ¼ö°­ ³ëÆ®
+# C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ ê°•ì˜ ë…¸íŠ¸
+Rookissë‹˜ì˜ MMO ê²Œì„ ê°œë°œ ê°•ì˜ ì‹œë¦¬ì¦ˆë¥¼ ë“¤ìœ¼ë©´ì„œ ì§ì ‘ ê¸°ë¡í•œ ê°•ì˜ ë…¸íŠ¸ì…ë‹ˆë‹¤.
 
-·Îµå¸Ê °­ÀÇ ¸µÅ© : [MMORPG °ÔÀÓ °³¹ß, ÄÒ±è¿¡ ³¡ÆÇ¿Õ±îÁö!](https://www.inflearn.com/roadmaps/355)
+ë¡œë“œë§µ ê°•ì˜ ë§í¬ : [MMORPG ê²Œì„ ê°œë°œ, ì¼ ê¹€ì— ëíŒì™•ê¹Œì§€!](https://www.inflearn.com/roadmaps/355)
 
-## °­ÀÇ ¸®½ºÆ®
-- [C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî] Part4: °ÔÀÓ ¼­¹ö
-- [C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî] Part5: µ¥ÀÌÅÍº£ÀÌ½º
-- [C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî] Part7: MMO ÄÁÅÙÃ÷ ±¸Çö (Unity + C# ¼­¹ö ¿¬µ¿ ±âÃÊ)
-- [C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî] Part8: Entity Framework Core
-- [C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî] Part9: MMO ÄÁÅÙÃ÷ ±¸Çö (DB¿¬µ¿ + ´ëÇü ±¸Á¶ + ¶óÀÌºê ÁØºñ)
+## ê°•ì˜ ë¦¬ìŠ¤íŠ¸
+- [[C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ] Part4: ê²Œì„ ì„œë²„](https://github.com/Joseph-Cha/MMOGameDevelopmentLectureNote#c%EA%B3%BC-%EC%9C%A0%EB%8B%88%ED%8B%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-mmorpg-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-part4-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84)
+- [C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ] Part5: ë°ì´í„°ë² ì´ìŠ¤
+- [C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ] Part7: MMO ì»¨í…ì¸  êµ¬í˜„ (Unity + C# ì„œë²„ ì—°ë™ ê¸°ì´ˆ)
+- [C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ] Part8: Entity Framework Core
+- [C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ] Part9: MMO ì»¨í…ì¸  êµ¬í˜„ (DBì—°ë™ + ëŒ€í˜• êµ¬ì¡° + ë¼ì´ë¸Œ ì¤€ë¹„)
 
-## [C#°ú À¯´ÏÆ¼·Î ¸¸µå´Â MMORPG °ÔÀÓ °³¹ß ½Ã¸®Áî] Part4: °ÔÀÓ ¼­¹ö
+## [C#ê³¼ ìœ ë‹ˆí‹°ë¡œ ë§Œë“œëŠ” MMORPG ê²Œì„ ê°œë°œ ì‹œë¦¬ì¦ˆ] Part4: ê²Œì„ ì„œë²„
 
-### 1Àå. ¸ÖÆ¼¾²·¹µå ÇÁ·Î±×·¡¹Ö
+### 1ì¥. ë©€í‹°ì“°ë ˆë“œ í”„ë¡œê·¸ë˜ë°
 
-- [1.1 ¼­¹öOT](Part4.GameServer/1Àå.¸ÖÆ¼¾²·¹µåÇÁ·Î±×·¡¹Ö/1.1_¼­¹ö_OT.md)
-- [1.2 ¸ÖÆ¼¾²·¹µå ÀÔ¹®](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.2_¸ÖÆ¼¾²·¹µå_ÀÔ¹®.md)
-- [1.3 ¾²·¹µå »ı¼º](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.3_¾²·¹µå_»ı¼º.md)
-- [1.4 ÄÄÆÄÀÏ·¯ ÃÖÀûÈ­](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.4_ÄÄÆÄÀÏ·¯_ÃÖÀûÈ­.md)
-- [1.5 Ä³½¬ ÀÌ·Ğ](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.5_Ä³½¬_ÀÌ·Ğ.md)
-- [1.6 ¸Ş¸ğ¸® ¹è¸®¾î](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.6_¸Ş¸ğ¸®_¹è¸®¾î.md)
-- [1.7 Interlocked](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.7_Interlocked.md)
-- [1.8 Lock ±âÃÊ](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.8_Lock_±âÃÊ.md)
-- [1.9 DeadLock](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.9_DeadLock.md)
-- [1.10 Lock ±¸ÇöÀÌ·Ğ](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.10_Lock_±¸ÇöÀÌ·Ğ.md)
-- [1.11 SpinLock](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.11_SpinLock.md)
-- [1.12 ContextSwitching](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.12_ContextSwitching.md)
-- [1.13 AutoResetEvent](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.13_AutoResetEvent.md)
-- [1.14 ReaderWriterLock](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.14_ReaderWriterLock.md)
-- [1.15 ReaderWriterLock ±¸Çö ¿¬½À](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.15_ReaderWriterLock_±¸Çö_¿¬½À.md)
-- [1.16 Thread Local Storage](Part4.GameServer/1Àå_¸ÖÆ¼¾²·¹µå_ÇÁ·Î±×·¡¹Ö/1.16_Thread_Local_Storage.md)
+- [1.1 ì„œë²„OT](Part4.GameServer/1ì¥.ë©€í‹°ì“°ë ˆë“œí”„ë¡œê·¸ë˜ë°/1.1_ì„œë²„_OT.md)
+- [1.2 ë©€í‹°ì“°ë ˆë“œ ì…ë¬¸](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.2_ë©€í‹°ì“°ë ˆë“œ_ì…ë¬¸.md)
+- [1.3 ì“°ë ˆë“œ ìƒì„±](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.3_ì“°ë ˆë“œ_ìƒì„±.md)
+- [1.4 ì»´íŒŒì¼ëŸ¬ ìµœì í™”](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.4_ì»´íŒŒì¼ëŸ¬_ìµœì í™”.md)
+- [1.5 ìºì‰¬ ì´ë¡ ](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.5_ìºì‰¬_ì´ë¡ .md)
+- [1.6 ë©”ëª¨ë¦¬ ë°°ë¦¬ì–´](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.6_ë©”ëª¨ë¦¬_ë°°ë¦¬ì–´.md)
+- [1.7 Interlocked](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.7_Interlocked.md)
+- [1.8 Lock ê¸°ì´ˆ](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.8_Lock_ê¸°ì´ˆ.md)
+- [1.9 DeadLock](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.9_DeadLock.md)
+- [1.10 Lock êµ¬í˜„ì´ë¡ ](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.10_Lock_êµ¬í˜„ì´ë¡ .md)
+- [1.11 SpinLock](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.11_SpinLock.md)
+- [1.12 ContextSwitching](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.12_ContextSwitching.md)
+- [1.13 AutoResetEvent](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.13_AutoResetEvent.md)
+- [1.14 ReaderWriterLock](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.14_ReaderWriterLock.md)
+- [1.15 ReaderWriterLock êµ¬í˜„ ì—°ìŠµ](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.15_ReaderWriterLock_êµ¬í˜„_ì—°ìŠµ.md)
+- [1.16 Thread Local Storage](Part4.GameServer/1ì¥_ë©€í‹°ì“°ë ˆë“œ_í”„ë¡œê·¸ë˜ë°/1.16_Thread_Local_Storage.md)
 
-### 2Àå. ³×Æ®¿öÅ© ÇÁ·Î±×·¡¹Ö
+### 2ì¥. ë„¤íŠ¸ì›Œí¬ í”„ë¡œê·¸ë˜ë°
 
-- [2.1 ³×Æ®¿öÅ© ±âÃÊ](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.1_³×Æ®¿öÅ©_±âÃÊ.md)
-- [2.2 Åë½Å ¸ğµ¨](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.2_Åë½Å_¸ğµ¨.md)
-- [2.3 ¼ÒÄÏ ÇÁ·Î±×·¡¹Ö ÀÔ¹® #1](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.3_¼ÒÄÏ_ÇÁ·Î±×·¡¹Ö_ÀÔ¹®_#1.md)
-- [2.4 ¼ÒÄÏ ÇÁ·Î±×·¡¹Ö ÀÔ¹® #2](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.4_¼ÒÄÏ_ÇÁ·Î±×·¡¹Ö_ÀÔ¹®_#2.md)
-- [2.5 Listener](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.5_Listener.md)
-- [2.6 Session #1](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.6_Session_#1.md)
-- [2.7 Session #2](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.7_Session_#2.md)
-- [2.8 Session #3](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.8_Session_#3.md)
-- [2.9 Session #4](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.9_Session_#4.md)
-- [2.10 Connector](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.10_Connector.md)
-- [2.11 TCP vs UDP](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.11_TCP_vs_UDP.md)
-- [2.12 RecvBuffer](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.12_RecvBuffer.md)
-- [2.13 SendBuffer](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.13_SendBuffer.md)
-- [2.14 PacketSession](Part4.GameServer/2Àå_³×Æ®¿öÅ©_ÇÁ·Î±×·¡¹Ö/2.14_PacketSession.md)
+- [2.1 ë„¤íŠ¸ì›Œí¬ ê¸°ì´ˆ](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.1_ë„¤íŠ¸ì›Œí¬_ê¸°ì´ˆ.md)
+- [2.2 í†µì‹  ëª¨ë¸](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.2_í†µì‹ _ëª¨ë¸.md)
+- [2.3 ì†Œì¼“ í”„ë¡œê·¸ë˜ë° ì…ë¬¸ #1](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.3_ì†Œì¼“_í”„ë¡œê·¸ë˜ë°_ì…ë¬¸_#1.md)
+- [2.4 ì†Œì¼“ í”„ë¡œê·¸ë˜ë° ì…ë¬¸ #2](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.4_ì†Œì¼“_í”„ë¡œê·¸ë˜ë°_ì…ë¬¸_#2.md)
+- [2.5 Listener](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.5_Listener.md)
+- [2.6 Session #1](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.6_Session_#1.md)
+- [2.7 Session #2](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.7_Session_#2.md)
+- [2.8 Session #3](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.8_Session_#3.md)
+- [2.9 Session #4](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.9_Session_#4.md)
+- [2.10 Connector](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.10_Connector.md)
+- [2.11 TCP vs UDP](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.11_TCP_vs_UDP.md)
+- [2.12 RecvBuffer](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.12_RecvBuffer.md)
+- [2.13 SendBuffer](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.13_SendBuffer.md)
+- [2.14 PacketSession](Part4.GameServer/2ì¥_ë„¤íŠ¸ì›Œí¬_í”„ë¡œê·¸ë˜ë°/2.14_PacketSession.md)
 
-### 3Àå. ÆĞÅ¶ Á÷·ÄÈ­
+### 3ì¥. íŒ¨í‚· ì§ë ¬í™”
 
-- [3.1 Serialization #1](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.1_Serialization_#1.md)
-- [3.2 Serialization #2](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.2_Serialization_#2.md)
-- [3.3 UTF-8 vs UTF-16](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.3_UTF-8_vs_UTF-16.md)
-- [3.4 Serialization #3](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.4_Serialization_#3.md)
-- [3.5 Serialization #4](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.5_Serialization_#4.md)
-- [3.6 Packet Generator #1](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.6_Packet_Generator_#1.md)
-- [3.7 Packet Generator #2](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.7_Packet_Generator_#2.md)
-- [3.8 Packet Generator #3](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.8_Packet_Generator_#3.md)
-- [3.9 Packet Generator #4](Part4.GameServer/3Àå_ÆĞÅ¶_Á÷·ÄÈ­/3.9_Packet_Generator_#4.md)
+- [3.1 Serialization #1](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.1_Serialization_#1.md)
+- [3.2 Serialization #2](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.2_Serialization_#2.md)
+- [3.3 UTF-8 vs UTF-16](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.3_UTF-8_vs_UTF-16.md)
+- [3.4 Serialization #3](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.4_Serialization_#3.md)
+- [3.5 Serialization #4](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.5_Serialization_#4.md)
+- [3.6 Packet Generator #1](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.6_Packet_Generator_#1.md)
+- [3.7 Packet Generator #2](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.7_Packet_Generator_#2.md)
+- [3.8 Packet Generator #3](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.8_Packet_Generator_#3.md)
+- [3.9 Packet Generator #4](Part4.GameServer/3ì¥_íŒ¨í‚·_ì§ë ¬í™”/3.9_Packet_Generator_#4.md)
 
-### 4Àå. Job Queue
+### 4ì¥. Job Queue
 
-- [4.1 Ã¤ÆÃ Å×½ºÆ® #1](Part4.GameServer/4Àå_Job_Queue/4.1_Ã¤ÆÃ_Å×½ºÆ®_#1.md)
-- [4.2 Ã¤ÆÃ Å×½ºÆ® #2](Part4.GameServer/4Àå_Job_Queue/4.2_Ã¤ÆÃ_Å×½ºÆ®_#2.md)
-- [4.3 Ä¿¸Çµå ÆĞÅÏ](Part4.GameServer/4Àå_Job_Queue/4.3_Ä¿¸Çµå_ÆĞÅÏ.md)
-- [4.4 Job Queue #1](Part4.GameServer/4Àå_Job_Queue/4.4_Job_Queue_#1.md)
-- [4.5 Job Queue #2](Part4.GameServer/4Àå_Job_Queue/4.5_Job_Queue_#2.md)
-- [4.6 ÆĞÅ¶ ¸ğ¾Æ º¸³»±â](Part4.GameServer/4Àå_Job_Queue/4.6_ÆĞÅ¶_¸ğ¾Æ_º¸³»±â.md)
-- [4.7 Job Timer](Part4.GameServer/4Àå_Job_Queue/4.7_Job_Timer.md)
+- [4.1 ì±„íŒ… í…ŒìŠ¤íŠ¸ #1](Part4.GameServer/4ì¥_Job_Queue/4.1_ì±„íŒ…_í…ŒìŠ¤íŠ¸_#1.md)
+- [4.2 ì±„íŒ… í…ŒìŠ¤íŠ¸ #2](Part4.GameServer/4ì¥_Job_Queue/4.2_ì±„íŒ…_í…ŒìŠ¤íŠ¸_#2.md)
+- [4.3 ì»¤ë§¨ë“œ íŒ¨í„´](Part4.GameServer/4ì¥_Job_Queue/4.3_ì»¤ë§¨ë“œ_íŒ¨í„´.md)
+- [4.4 Job Queue #1](Part4.GameServer/4ì¥_Job_Queue/4.4_Job_Queue_#1.md)
+- [4.5 Job Queue #2](Part4.GameServer/4ì¥_Job_Queue/4.5_Job_Queue_#2.md)
+- [4.6 íŒ¨í‚· ëª¨ì•„ ë³´ë‚´ê¸°](Part4.GameServer/4ì¥_Job_Queue/4.6_íŒ¨í‚·_ëª¨ì•„_ë³´ë‚´ê¸°.md)
+- [4.7 Job Timer](Part4.GameServer/4ì¥_Job_Queue/4.7_Job_Timer.md)
 
-### 5Àå. À¯´ÏÆ¼ ¿¬µ¿
+### 5ì¥. ìœ ë‹ˆí‹° ì—°ë™
 
-- [5.1 À¯´ÏÆ¼ ¿¬µ¿ #1](Part4.GameServer/5Àå_À¯´ÏÆ¼_¿¬µ¿/5.1_À¯´ÏÆ¼_¿¬µ¿_#1.md)
-- [5.2 À¯´ÏÆ¼ ¿¬µ¿ #2](Part4.GameServer/5Àå_À¯´ÏÆ¼_¿¬µ¿/5.2_À¯´ÏÆ¼_¿¬µ¿_#2.md)
-- [5.3 À¯´ÏÆ¼ ¿¬µ¿ #3](Part4.GameServer/5Àå_À¯´ÏÆ¼_¿¬µ¿/5.3_À¯´ÏÆ¼_¿¬µ¿_#3.md)
-- [5.4 À¯´ÏÆ¼ ¿¬µ¿ #4](Part4.GameServer/5Àå_À¯´ÏÆ¼_¿¬µ¿/5.4_À¯´ÏÆ¼_¿¬µ¿_#4.md)
+- [5.1 ìœ ë‹ˆí‹° ì—°ë™ #1](Part4.GameServer/5ì¥_ìœ ë‹ˆí‹°_ì—°ë™/5.1_ìœ ë‹ˆí‹°_ì—°ë™_#1.md)
+- [5.2 ìœ ë‹ˆí‹° ì—°ë™ #2](Part4.GameServer/5ì¥_ìœ ë‹ˆí‹°_ì—°ë™/5.2_ìœ ë‹ˆí‹°_ì—°ë™_#2.md)
+- [5.3 ìœ ë‹ˆí‹° ì—°ë™ #3](Part4.GameServer/5ì¥_ìœ ë‹ˆí‹°_ì—°ë™/5.3_ìœ ë‹ˆí‹°_ì—°ë™_#3.md)
+- [5.4 ìœ ë‹ˆí‹° ì—°ë™ #4](Part4.GameServer/5ì¥_ìœ ë‹ˆí‹°_ì—°ë™/5.4_ìœ ë‹ˆí‹°_ì—°ë™_#4.md)
