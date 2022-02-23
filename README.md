@@ -5,7 +5,7 @@ Rookiss님의 MMO 게임 개발 강의 시리즈를 들으면서 직접 기록�
 
 ## 강의 리스트
 - [[C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part4: 게임 서버](https://github.com/Joseph-Cha/MMOGameDevelopmentLectureNote#c%EA%B3%BC-%EC%9C%A0%EB%8B%88%ED%8B%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-mmorpg-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-part4-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84)
-- [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part5: 데이터베이스
+- [[C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part5: 데이터베이스](https://github.com/Joseph-Cha/MMO_GameDevelopment_LectureNote#c%EA%B3%BC-%EC%9C%A0%EB%8B%88%ED%8B%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-mmorpg-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-part5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 - [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part7: MMO 컨텐츠 구현 (Unity + C# 서버 연동 기초)
 - [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part8: Entity Framework Core
 - [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part9: MMO 컨텐츠 구현 (DB연동 + 대형 구조 + 라이브 준비)
