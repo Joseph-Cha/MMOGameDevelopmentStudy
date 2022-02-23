@@ -77,4 +77,47 @@ Rookiss님의 MMO 게임 개발 강의 시리즈를 들으면서 직접 기록�
 - [5.3 유니티 연동 #3](Part4.GameServer/5장_유니티_연동/5.3_유니티_연동_#3.md)
 - [5.4 유니티 연동 #4](Part4.GameServer/5장_유니티_연동/5.4_유니티_연동_#4.md)
 
-### [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part5: 데이터베이스
+## [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈] Part5: 데이터베이스
+
+### 1장 SQL 기초 문법
+
+- [1.1 SSMS 입문](Part5_DataBase/1장_SQL_기초_문법/1_SSMS입문.md)
+- [1.2 SELECT FROM WHERE](Part5_DataBase/1장_SQL_기초_문법/2_SELECT_FROM_WHERE.md)
+- [1.3 ORDER BY](Part5_DataBase/1장_SQL_기초_문법/3_ORDER_BY.md)
+- [1.4 수치와 문자열](Part5_DataBase/1장_SQL_기초_문법/4_수치와_문자열.md)
+- [1.5 DATETIME](Part5_DataBase/1장_SQL_기초_문법/5_DATETIME.md)
+- [1.6 CASE](Part5_DataBase/1장_SQL_기초_문법/6_CASE.md)
+- [1.7 집계](Part5_DataBase/1장_SQL_기초_문법/7_집계.md)
+- [1.8 연습문제](Part5_DataBase/1장_SQL_기초_문법/8_연습문제.md)
+- [1.9 INSERT DELETE UPDATE](Part5_DataBase/1장_SQL_기초_문법/9_INSERT_DELETE_UPDATE.md)
+- [1.10 데이터베이스 작성](Part5_DataBase/1장_SQL_기초_문법/10_데이터베이스_작성.md)
+- [1.11 정규화](Part5_DataBase/1장_SQL_기초_문법/11_정규화.md)
+- [1.12 인덱스](Part5_DataBase/1장_SQL_기초_문법/12_인덱스.md)
+- [1.13 Union](Part5_DataBase/1장_SQL_기초_문법/13_Union.md)
+- [1.14 Join](Part5_DataBase/1장_SQL_기초_문법/14_Join.md)
+- [1.15 TRANSACTION](Part5_DataBase/1장_SQL_기초_문법/15_TRANSACTION.md)
+- [1.16 변수와 흐름제어](Part5_DataBase/1장_SQL_기초_문법/16_변수와_흐름_제어.md)
+- [1.17 윈도우 함수](Part5_DataBase/1장_SQL_기초_문법/17_윈도우_함수.md)
+
+### 2장 SQL 튜닝
+
+- [2.1 인덱스 분석](Part5_DataBase/2장_SQL_튜닝/1_인덱스_분석.md)
+- [2.2 복합 인덱스](Part5_DataBase/2장_SQL_튜닝/2_복합_인덱스.md)
+- [2.3 Clustered vs Non-Clustered](Part5_DataBase/2장_SQL_튜닝/3_Clustered_vs_Non-Clustered.md)
+- [2.4 Index Scan vs Index Seek](Part5_DataBase/2장_SQL_튜닝/4_Index_Scan_vs_Index_Seek.md)
+- [2.5 북마크 룩업](Part5_DataBase/2장_SQL_튜닝/5_북마크_룩업.md)
+- [2.6 인덱스 칼럼 순서](Part5_DataBase/2장_SQL_튜닝/6_인덱스_칼럼_순서.md)
+- [2.7 Nest Loop 조인](Part5_DataBase/2장_SQL_튜닝/7_Nested_Loop_조인.md)
+- [2.8 Merge 조인](Part5_DataBase/2장_SQL_튜닝/8_Merge_조인.md)
+- [2.9 Hash 조인](Part5_DataBase/2장_SQL_튜닝/9_Hash_조인.md)
+- [2.10 Sorting](Part5_DataBase/2장_SQL_튜닝/10_Sorting.md)
+
+### 3장 데이터베이스 이론과 Redis 맛보기
+
+- [3.1 데이터베이스 원리](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/1_데이터베이스원리.md)
+- [3.2 쓰레드와 캐시](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/2_쓰레드와_캐시.md)
+- [3.3 대기와 락](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/3_대기와_락.md)
+- [3.4 TRANSACTION](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/4_TRANSACTION.md)
+- [3.5 Redis 맛보기 #1](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/5_Redis_맛보기_#1.md)
+- [3.6 Redis 맛보기 #2](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/6_Redis_맛보기_#2.md)
+- [3.7 Redis 맛보기 #3](Part5_DataBase/3장_데이터베이스_이론과_Redis_맛보기/7_Redis_맛보기_#3.md)
