@@ -147,4 +147,41 @@ Rookiss님의 MMO 게임 개발 강의 시리즈를 들으면서 직접 기록�
 - [2.2 Job Timer](Part7_MMOContent(Server_Connection)/2장_구조개선/2.2_JobTimer.md)
 - [2.3 마무리](Part7_MMOContent(Server_Connection)/2장_구조개선/2.3_마무리.md)
 
+## Part8: Entity Framework Core
 
+### 1장 데이터 쿼리
+
+- [1.1 RelationShip  기초](Part8_EntityFrameworkCore/1장_데이터_쿼리/1.1_RelationShip_기초.md)
+- [1.2 관련 데이터 로딩](Part8_EntityFrameworkCore/1장_데이터_쿼리/1.2_관련_데이터_로딩.md)
+- [1.3 Data Transfer Object](Part8_EntityFrameworkCore/1장_데이터_쿼리/1.3_Data_Transfer_Object.md)
+
+### 2장 데이터 수정
+
+- [2.1 Entity 상태 관리](Part8_EntityFrameworkCore/2장_데이터_수정/2.1_Entity_상태_관리.md)
+- [2.2 Update 기초](Part8_EntityFrameworkCore/2장_데이터_수정/2.2_Update_기초.md)
+- [2.3 Connected vs Disconnected](Part8_EntityFrameworkCore/2장_데이터_수정/2.3_Connected_vs_Disconnected.md)
+- [2.4 Foreign Key와 Nullable](Part8_EntityFrameworkCore/2장_데이터_수정/2.4_Foreign_Key와_Nullable.md)
+- [2.5 Relationship Update](Part8_EntityFrameworkCore/3장_세부설정/3.2_Relationship_Config.md)
+- [2.6 Delete](Part8_EntityFrameworkCore/2장_데이터_수정/2.6_Delete.md)
+
+### 3장 세부 설정
+
+- [3.1 Data Modeling Config](Part8_EntityFrameworkCore/3장_세부설정/3.1_Data_Modeling_Config.md)
+- [3.2 Relationship Config](Part8_EntityFrameworkCore/3장_세부설정/3.2_Relationship_Config.md)
+- [3.3 Shadow Property & Backing Field](Part8_EntityFrameworkCore/3장_세부설정/3.3_Shadow_Property_and_Backing_Field.md)
+- [3.4 Entity Class & Table Mapping](Part8_EntityFrameworkCore/3장_세부설정/3.4_Entity_Class_and_Table_Mapping.md)
+- [3.5 Backing Field + Relationship](Part8_EntityFrameworkCore/3장_세부설정/3.5_Backing_Field_and_Relationship.md)
+- [3.6 User Defined Function](Part8_EntityFrameworkCore/3장_세부설정/3.6_User_Defined_Function.md)
+- [3.7 Default Value](Part8_EntityFrameworkCore/3장_세부설정/3.7_Default_Value.md)
+
+### 4장 Migration
+
+- [4.1 Migration #1 (Code-First)](Part8_EntityFrameworkCore/4장_Migration/4.1_Migration_1_(Code-First).md)
+
+### 5장 DbContext
+
+- [5.1 Entity State & Relationship #1](Part8_EntityFrameworkCore/5장_DbContext/5.1_Entity_State_and_Relationship_1.md)
+- [5.2 Entity State & Relationship #2](Part8_EntityFrameworkCore/5장_DbContext/5.2_Entity_State_and_Relationship_2.md)
+- [5.3 State 조작](Part8_EntityFrameworkCore/5장_DbContext/5.3_State_조작.md)
+- [5.4 SQL 호출](Part8_EntityFrameworkCore/5장_DbContext/5.4_SQL_호출.md)
+- [5.5 마지막 (Logging)](Part8_EntityFrameworkCore/5장_DbContext/5.5_Logging.md)
